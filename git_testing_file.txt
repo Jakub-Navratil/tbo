@@ -1,4 +1,4 @@
-v. 1.0:
+v. 2.0:
 This is original content of file.
-This is first version of file.
+This is third version of file.
 Just created.
