@@ -1,4 +1,4 @@
 v. 2.0:
-This is original content of file.
-This is third version of file.
-Just created.
+This is modified content of file.
+This is second version of file.
+Mixed.
