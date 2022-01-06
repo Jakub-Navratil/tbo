@@ -1,4 +1,4 @@
-v. 1.0:
-This is original content of file.
-This is first version of file.
+v. 1.7:
+This is modified content of file.
+This is second version of file.
 Just created.
