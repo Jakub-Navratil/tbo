@@ -1,6 +1,6 @@
 # Ignore ALL *.jpg nad *.png
-**.jpg
-**.png
+**/*.jpg
+**/*.png
 
 # Ignore ALL backup files
-**.bak
+**/*.bak
